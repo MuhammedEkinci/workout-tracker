@@ -6,4 +6,4 @@ This application keeps track of your workouts, allows you to add your own custom
 
 A consumer will reach their fitness goals more quickly when they track their workout progress.
 
-![]
+![](images/workout.JPG)
